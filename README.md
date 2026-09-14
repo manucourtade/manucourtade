@@ -60,6 +60,16 @@ Este mismo portfolio: manucourtade.github.io — CV, proyectos y stack técnico.
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=manucourtade&theme=radical&hide_border=true)
 
+---
+
+### 🐍 Actividad reciente
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/manucourtade/manucourtade/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manucourtade&layout=compact&theme=radical&hide_border=true)
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=manucourtade&color=e07a5f&style=flat-square&label=PERFIL+VISTAS)
