@@ -14,7 +14,7 @@ Estudiante de la **Tecnicatura Universitaria en Programación** (UTN Avellaneda)
 
 **Backend**
 
-![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Docker](https://skillicons.dev/icons?i=docker)
+![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Docker](https://skillicons.dev/icons?i=docker)
 
 **Frontend / Otros**
 
