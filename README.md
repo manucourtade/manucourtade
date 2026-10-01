@@ -18,7 +18,7 @@ Estudiante de la **Tecnicatura Universitaria en Programación** (UTN Avellaneda)
 
 **Frontend / Otros**
 
-![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Python](https://skillicons.dev/icons?i=python) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![TAILWINDCSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Python](https://skillicons.dev/icons?i=python) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
 **Herramientas**
 
